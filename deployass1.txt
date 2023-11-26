@@ -9,3 +9,5 @@ echo "# assign1" >> README.md
 git remote add origin https://github.com/Sruthi1701/assign1.git
   git branch -M main
   git push -u origin main
+
+deployment code
